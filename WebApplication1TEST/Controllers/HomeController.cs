@@ -12,6 +12,7 @@ namespace WebApplication1TEST.Controllers
         {
             ViewBag.Title = "Home Page";
             ViewBag.Title = "Child";
+            ViewBag.Title = "batatas";
             //hello world Child:Here and here is the batatas 
             return View();
         }
