@@ -11,7 +11,7 @@ namespace WebApplication1TEST.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
-            ViewBag.Title = "Child";
+            ViewBag.Title = "batatass";
             ViewBag.Title = "batatas";
             //hello world Child:Here and here is the batatas 
             return View();
